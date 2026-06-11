@@ -14,11 +14,6 @@
 </div>
 
 ---
-<div align="center">
-  
-  Connect with me. 😊
-
-  </div>
 
 <div align="center">
 
