@@ -4,17 +4,12 @@
   ║  Repo: github.com/Ahmedbuilds/Ahmedbuilds                   ║
   ╚══════════════════════════════════════════════════════════════╝
 
-  SETUP INSTRUCTIONS:
-  1. Create a new repo on GitHub named exactly "Ahmedbuilds"
-  2. Copy this file as README.md into that repo
-  3. Upload the banner image (github_banner.png) to the repo root
-  4. Push and your profile will automatically display this README
 -->
 
 <div align="center">
 
 <!-- BANNER -->
-<img src="./github_banner.png" alt="Ahmed Shaikh — DevSecOps Engineer" width="100%" />
+<img src="./github_banner.png" alt="Ahmed Shaikh — DevSecOps Engineer" width="70%" />
 
 </div>
 
