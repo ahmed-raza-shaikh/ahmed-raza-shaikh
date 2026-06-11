@@ -32,7 +32,7 @@
 - 🤖 **Automation-first mindset** — if it can be scripted, it should be.
 - 🚀 **CI/CD pipelines** — from commit to production, fast and secure.
 - 🛠️ Builder of tools — currently working on automated job discovery & resume tailoring with LLMs.
-- 📧 How to reach me: [ashaikh5@stevens.edu](mailto:shaikhahmed0426@gmail.com)
+- 📧 How to reach me: [shaikhahmed0426@gmail.com](mailto:shaikhahmed0426@gmail.com)
 
 ---
 
