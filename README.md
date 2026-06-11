@@ -100,6 +100,6 @@
 <div align="center">
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmedbuilds&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+[![](https://visitcount.itsvg.in/api?id=Ahmedbuilds&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
