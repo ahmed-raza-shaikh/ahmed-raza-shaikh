@@ -5,12 +5,9 @@
   Setup:
   1. Rename or create the profile repository as: ahmed-raza-shaikh
   2. Place this file at the repository root as README.md
-  3. Keep github_banner.png in the repository root if you want the banner visible
 -->
 
 <div align="center">
-
-<img src="./github_banner.png" alt="Ahmed Raza Shaikh — DevSecOps Engineer" width="100%" />
 
 # Ahmed Raza Shaikh
 
