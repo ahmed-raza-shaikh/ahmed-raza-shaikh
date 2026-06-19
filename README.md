@@ -105,7 +105,10 @@
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmed-raza-shaikh&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)
+![Commits](https://img.shields.io/github/commit-activity/m/ahmed-raza-shaikh/ahmed-raza-shaikh?style=for-the-badge&label=Profile%20Commits&color=7DD3FC&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/ahmed-raza-shaikh/ahmed-raza-shaikh?style=for-the-badge&label=Last%20Profile%20Update&color=A78BFA&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/Focus-DevSecOps%20%2B%20Cloud-34D399?style=for-the-badge&labelColor=0D1117)
+![Automation](https://img.shields.io/badge/Mode-Automation%20First-FBBF24?style=for-the-badge&labelColor=0D1117)
 
 <a href="https://github.com/ahmed-raza-shaikh">
   <img height="180" alt="Ahmed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=E5E7EB&icon_color=A78BFA" />
