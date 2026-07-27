@@ -1,104 +1,71 @@
 <!--
-THESIS: A cloud-security profile as an operational signal brief, not a generic tool wall.
-OWN-WORLD: Midnight signal field; cobalt and teal routes with restrained amber evidence markers; crisp dividers and purposeful tables.
-STORY: Recruiters see practical security impact; collaborators see the systems, standards, and problems worth building together.
-FIRST VIEWPORT: A full-width signal banner precedes a direct role statement, three compact contact actions, and a one-line operating thesis.
-FORM: An evidence-led field brief (assigned direction, seed 8f9035fc), paced from signal to scope to proof to collaboration.
+THESIS: A cloud-security profile as a concise, evidence-led operating brief.
+OWN-WORLD: Midnight field diagram; cobalt, teal, and amber mark the Signal → Control → Evidence model.
+STORY: Recruiters quickly understand role fit and impact; collaborators find real projects and a clear way in.
+FIRST VIEWPORT: A safe standalone image is followed by normal Markdown identity, role-fit statement, and a single primary contact action.
+FORM: A linear field brief—model, proof, practice, public builds, then collaboration.
 -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/main/assets/operational-signal-banner.jpg" alt="Abstract operational signal paths converging on a protected cloud node" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/main/assets/signal-control-evidence.svg" alt="Signal, control, evidence: a cloud-security operating model" width="100%" />
+</p>
 
-  # Ahmed Raza Shaikh
+# Ahmed Raza Shaikh
 
-  **Cloud Security Engineer · Cybersecurity Consultant · DevSecOps Automation**
+**Cloud Security Engineer · Cybersecurity Consultant · DevSecOps Automation**
 
-  I build the connective tissue between cloud posture, detection engineering, secure delivery, and evidence-ready compliance.
+I connect cloud posture, detection engineering, secure delivery, and evidence-ready compliance—so teams can find risk, make recurrence harder, and prove the control worked.
 
-  [LinkedIn](https://www.linkedin.com/in/ahmedrazaashaikh/) · [Portfolio](https://ahmedshaikh.cloud/) · [Email](mailto:ahmedshaikh0426@gmail.com)
-</div>
+**Best fit:** Cloud Security Engineering, DevSecOps Security, and Security Automation roles.
 
----
-
-## Signal brief
-
-Cloud security engineer and cybersecurity consultant with 5+ years securing enterprise cloud, financial-services, and client environments. My work moves from *finding risk* to *making it harder to reintroduce*—across IAM, cloud controls, SIEM detection, application security, and delivery pipelines.
-
-<table>
-  <tr>
-    <td width="33%"><b>01 / Protect</b><br />AWS and Azure posture, IAM hardening, data and network controls.</td>
-    <td width="33%"><b>02 / Detect</b><br />Actionable SIEM content, threat-informed telemetry, and response runbooks.</td>
-    <td width="33%"><b>03 / Prove</b><br />Automated guardrails, continuous evidence, and defensible compliance reporting.</td>
-  </tr>
-</table>
+[Email Ahmed](mailto:ahmedshaikh0426@gmail.com) · [Portfolio](https://ahmedshaikh.cloud/) · [LinkedIn](https://www.linkedin.com/in/ahmedrazaashaikh/)
 
 ---
 
-## The work in numbers
+## The operating model
 
-| Signal | Outcome |
+| Stage | What I focus on | What changes |
+| :-- | :-- | :-- |
+| **Signal** | Cloud posture, vulnerability patterns, and actionable telemetry | Teams see the risks that deserve attention. |
+| **Control** | IAM hardening, security guardrails, and pull-request gates | The same classes of risk become harder to reintroduce. |
+| **Evidence** | Detection content, runbooks, and continuous assurance | Security work remains visible, defensible, and usable. |
+
+---
+
+## Selected program outcomes
+
+| Practice | Verified outcome |
 | :-- | --: |
 | Cloud-risk reduction | **60%** |
-| SIEM detection rules engineered | **65+** |
-| High-severity findings stopped in CI/CD | **200+** |
-| CVEs managed through vulnerability programs | **600+** |
+| SIEM detection engineering | **65+ rules** |
+| Secure delivery controls | **200+ high-severity findings blocked** |
+| Vulnerability management | **600+ CVEs managed** |
 
 ---
 
-## Security operating model
+## What I build
 
-```mermaid
-flowchart LR
-    A["Cloud assets"] --> B["Posture assessment"]
-    B --> C["IAM · Data · Network controls"]
-    C --> D["Detection engineering"]
-    D --> E["Automated triage + runbooks"]
-    E --> F["Compliance evidence"]
-    F --> G["Risk reduction"]
-
-    H["Code + IaC"] --> I["SAST · IaC · Container scans"]
-    I --> J["PR security gates"]
-    J --> G
-```
-
----
-
-## Capability map
-
-| Domain | Working focus |
+| Practice lane | Engineering focus |
 | :-- | :-- |
-| **Cloud security** | AWS, Azure, Security Hub, GuardDuty, Microsoft Sentinel, Defender for Cloud |
-| **Detection & response** | Splunk, QRadar, threat detection engineering, triage workflows, incident-ready runbooks |
-| **Vulnerability & AppSec** | VAPT, Burp Suite, Nessus, Qualys, OWASP ZAP, OWASP Top 10 |
-| **Secure delivery** | Python, Terraform, Docker, Kubernetes, GitHub Actions, Trivy, Snyk, Checkov |
-| **Risk & assurance** | PCI-DSS, SOX, ISO 27001, NIST CSF, NIST SP 800-53, MITRE ATT&CK, STRIDE, Zero Trust |
+| **Secure cloud foundations** | AWS and Azure posture, IAM, data and network controls that reduce exposed paths. |
+| **Detection that leads somewhere** | SIEM content, threat-informed telemetry, triage patterns, and response-ready runbooks. |
+| **Guardrailed delivery** | Python automation, Terraform, containers, GitHub Actions, and security checks where teams change code. |
+| **Continuous assurance** | VAPT, risk reporting, and frameworks including ISO 27001, NIST, PCI-DSS, MITRE ATT&CK, and STRIDE. |
 
 ---
 
-## How I think about security
+## Public builds
 
-> Security is strongest when the control, the detection, and the evidence all tell the same story.
+### [Auro — Automated Cloud Compliance Engine](https://github.com/ahmed-raza-shaikh/Auro)
 
-- **Design for reduction, not theater.** Prioritize the paths that materially reduce attack surface and response time.
-- **Put guardrails where change happens.** Shift checks into infrastructure and pull-request workflows while preserving developer momentum.
-- **Turn signals into decisions.** Detection is valuable only when its owners know what to do next.
-- **Make assurance continuous.** Compliance evidence should be a byproduct of good engineering, not a recurring manual scramble.
+A serverless AWS compliance engine that runs scheduled CIS checks, generates PDF reports, and sends Slack alerts—built around read-only Boto3 audits and repeatable evidence.
+
+### [DevSecOps CI/CD Security Pipeline](https://github.com/ahmed-raza-shaikh/DevSecOps-CI-CD-Security-Pipeline)
+
+A GitHub Actions pipeline that turns container, IaC, dependency, and runtime findings into pull-request security gates with auditable outputs.
 
 ---
 
 ## Open to building
 
-I enjoy collaborating on practical security automation, cloud-compliance tooling, developer-first guardrails, and detection content that teams can actually run. If you are building in that space—or looking for someone who can connect security strategy to the work of shipping software—let’s talk.
-
-<div align="center">
-
-[Start a conversation](mailto:ahmedshaikh0426@gmail.com) · [See my portfolio](https://ahmedshaikh.cloud/) · [Connect on LinkedIn](https://www.linkedin.com/in/ahmedrazaashaikh/)
-
-<br />
-
-<a href="https://github.com/ahmed-raza-shaikh">
-  <img height="165" alt="Ahmed's GitHub activity" src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB&icon_color=2DD4BF" />
-  <img height="165" alt="Ahmed's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza-shaikh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB" />
-</a>
-
-</div>
+I’m especially interested in security automation, cloud-compliance tooling, developer-first guardrails, and detection content that teams can run. If you are hiring for that work, start with an [email](mailto:ahmedshaikh0426@gmail.com). If you want to collaborate, explore a public build above and reach out with the problem you want to solve.
