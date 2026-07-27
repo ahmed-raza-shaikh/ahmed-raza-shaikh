@@ -80,6 +80,25 @@ Cloud posture management, detection engineering, PR security gates, compliance a
 
 ---
 
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB&icon_color=2DD4BF" alt="Ahmed's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza-shaikh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB" alt="Ahmed's most-used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed-raza-shaikh&theme=transparent&hide_border=true&background=0D1117&stroke=60A5FA&ring=2DD4BF&fire=FBBF24&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=94A3B8" alt="Ahmed's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza-shaikh&bg_color=0D1117&color=E5E7EB&line=60A5FA&point=2DD4BF&area=true&area_color=1E293B&hide_border=true&custom_title=Contribution%20Signal" alt="Ahmed's GitHub contribution activity graph" width="100%" />
+</p>
+
+> Live cards are powered by public GitHub-profile services and reflect visible GitHub activity.
+
+---
+
 ## Open to building
 
 I’m especially interested in security automation, cloud-compliance tooling, developer-first guardrails, and detection content that teams can run. If you are hiring for that work, start with an [email](mailto:ahmedshaikh0426@gmail.com). If you want to collaborate, explore a public build above and reach out with the problem you want to solve.
