@@ -16,9 +16,17 @@ FORM: A linear field brief—model, proof, practice, public builds, then collabo
 
 I connect cloud posture, detection engineering, secure delivery, and evidence-ready compliance—so teams can find risk, make recurrence harder, and prove the control worked.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1100&color=60A5FA&center=true&vCenter=true&width=660&lines=Signal+to+control+to+evidence.;Cloud+security+systems+teams+can+run." alt="Signal to control to evidence. Cloud security systems teams can run." />
+</p>
+
 **Best fit:** Cloud Security Engineering, DevSecOps Security, and Security Automation roles.
 
-[Email Ahmed](mailto:ahmedshaikh0426@gmail.com) · [Portfolio](https://ahmedshaikh.cloud/) · [LinkedIn](https://www.linkedin.com/in/ahmedrazaashaikh/)
+[![Email Ahmed](https://img.shields.io/badge/Email_Ahmed-Start_a_conversation-0D1117?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:ahmedshaikh0426@gmail.com) · [Portfolio](https://ahmedshaikh.cloud/) · [LinkedIn](https://www.linkedin.com/in/ahmedrazaashaikh/)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,docker,kubernetes,githubactions&theme=dark" alt="AWS, Azure, Terraform, Python, Docker, Kubernetes, and GitHub Actions" />
+</p>
 
 ---
 
@@ -63,6 +71,12 @@ A serverless AWS compliance engine that runs scheduled CIS checks, generates PDF
 ### [DevSecOps CI/CD Security Pipeline](https://github.com/ahmed-raza-shaikh/DevSecOps-CI-CD-Security-Pipeline)
 
 A GitHub Actions pipeline that turns container, IaC, dependency, and runtime findings into pull-request security gates with auditable outputs.
+
+---
+
+## Ask me about
+
+Cloud posture management, detection engineering, PR security gates, compliance automation, and translating security requirements into engineering controls.
 
 ---
 
