@@ -109,8 +109,8 @@ Cloud posture management, detection engineering, PR security gates, compliance a
 
 > Live cards are powered by public GitHub-profile services and reflect visible GitHub activity.
 <p align="center">
-  ### A small extra signal
-</p>p
+  A small extra signal
+</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="A rotating developer quote" />
 </p>
