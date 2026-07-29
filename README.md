@@ -12,9 +12,9 @@ FORM: A linear field brief—model, proof, practice, public builds, then collabo
 
 <h1 align="center">Ahmed Raza Shaikh</h1>
 
-<p align="center"><strong>Cloud Security Engineer · Cybersecurity Consultant · DevSecOps Automation</strong></p>
+<p align="center"><strong>Cloud Security Engineer · DevSecOps Engineer · SIEM Detection Engineer</strong></p>
 
-<p align="center">I connect cloud posture, detection engineering, secure delivery, and evidence-ready compliance—so teams can find risk, make recurrence harder, and prove the control worked.</p>
+<p align="center">I connect AWS and Azure cloud security posture management (CSPM), SIEM detection engineering, secure delivery, and evidence-ready compliance—so teams can find risk, make recurrence harder, and prove the control worked.</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;pause=1100&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=660&amp;lines=Signal+to+control+to+evidence.;Cloud+security+systems+teams+can+run." alt="Signal to control to evidence. Cloud security systems teams can run." />
@@ -59,10 +59,10 @@ FORM: A linear field brief—model, proof, practice, public builds, then collabo
 
 | Practice lane | Engineering focus |
 | :-- | :-- |
-| **Secure cloud foundations** | AWS and Azure posture, IAM, data and network controls that reduce exposed paths. |
-| **Detection that leads somewhere** | SIEM content, threat-informed telemetry, triage patterns, and response-ready runbooks. |
+| **Secure cloud foundations** | AWS and Azure CSPM, least-privilege IAM, data and network controls, Terraform security, container security, and Kubernetes guardrails that reduce exposed paths. |
+| **Detection that leads somewhere** | SIEM detection content and threat-informed telemetry for Splunk, Microsoft Sentinel, and QRadar—mapped to MITRE ATT&CK with triage patterns and response-ready runbooks. |
 | **Guardrailed delivery** | Python automation, Terraform, containers, GitHub Actions, and security checks where teams change code. |
-| **Continuous assurance** | VAPT, risk reporting, and frameworks including ISO 27001, NIST, PCI-DSS, MITRE ATT&CK, and STRIDE. |
+| **Continuous assurance** | VAPT with Burp Suite, Nessus, Qualys, and OWASP ZAP; risk reporting; and evidence-ready controls mapped to ISO 27001, NIST CSF, NIST SP 800-53, PCI-DSS, SOX, OWASP Top 10, MITRE ATT&CK, and STRIDE. |
 
 ---
 
