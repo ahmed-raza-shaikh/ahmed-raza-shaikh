@@ -1,15 +1,20 @@
-<h1 align="left" id="ahmedrazashaikh-title">:wave: Hello there! I'm Ahmed Raza Shaikh</h1>
-<h3 align="left">I do Cloud Security / DevSecOps / SIEM Detection Engineering things</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E293B&height=200&section=header&text=Ahmed%20Raza%20Shaikh&fontSize=46&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Cloud%20Security%20%C2%B7%20DevSecOps%20%C2%B7%20SIEM%20Detection%20Engineering&descSize=18&descAlignY=58&descColor=94A3B8" alt="Ahmed Raza Shaikh" width="100%" />
+</p>
 
-<p align="left">
-  <a href="https://github.com/ahmed-raza-shaikh/ahmed-raza-shaikh"><img src="https://komarev.com/ghpvc/?username=ahmed-raza-shaikh" alt="page views" /></a>
-  <a href="https://ahmedshaikh.cloud"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fahmedshaikh.cloud"></a>
-  <a href="https://www.linkedin.com/in/ahmedrazaashaikh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin"></a>
-  <a href="https://github.com/ahmed-raza-shaikh?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmed-raza-shaikh?style=flat&logo=github"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=60A5FA&center=true&vCenter=true&width=640&lines=Securing+AWS+and+Azure+cloud+environments;Building+SIEM+detection+content+that+teams+use;Shipping+DevSecOps+automation+that+blocks+risk" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmed-raza-shaikh/ahmed-raza-shaikh"><img src="https://komarev.com/ghpvc/?username=ahmed-raza-shaikh&style=flat-square&color=60A5FA" alt="page views" /></a>
+  <a href="https://ahmedshaikh.cloud"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fahmedshaikh.cloud&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/ahmedrazaashaikh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmed-raza-shaikh?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmed-raza-shaikh?style=flat-square&logo=github"></a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
 
-<a href="#ahmedrazashaikh-title"><img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" align="right" width="380" /></a>
+<a href="#top"><img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" align="right" width="380" /></a>
 
 - :office: &nbsp;I'm currently working as a **[Security & Cloud Consultant]** at **Neon IT Systems**
 - :shield: &nbsp;I'm currently building **[Auro]**, an automated AWS compliance engine
@@ -18,7 +23,7 @@
 - :mailbox: &nbsp;Ask me anything by **[email]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
+<br clear="right">
 
 <h2 align="left" id="ahmedrazashaikh-tech">Favorite Tech</h2>
 
@@ -61,13 +66,29 @@
   </tr>
 </table>
 
+<h2 align="left">Trophies</h2>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
+</p>
+
 <h2 align="left">GitHub Activity</h2>
 
-> Contribution streak, tracked live.
+> Contribution streak and activity, tracked live.
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ahmed-raza-shaikh&theme=dark&hide_border=true&background=0D1117&stroke=60A5FA&ring=2DD4BF&fire=FBBF24" alt="Ahmed Raza Shaikh's GitHub contribution streak" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza-shaikh&bg_color=0D1117&color=E5E7EB&line=60A5FA&point=2DD4BF&area=true&area_color=1E293B&hide_border=true&custom_title=Contribution%20Activity" alt="Ahmed Raza Shaikh's GitHub contribution activity graph" width="100%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <!-- links -->
 
