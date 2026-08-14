@@ -14,7 +14,7 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
 
-<a href="#top"><img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" align="right" width="380" /></a>
+<a href="#top"><img src="https://github-readme-stats-two-nu.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" align="right" width="380" /></a>
 
 - :office: &nbsp;I'm currently working as a **[Security & Cloud Consultant]** at **Neon IT Systems**
 - :shield: &nbsp;I'm currently building **[Auro]**, an automated AWS compliance engine
@@ -69,7 +69,7 @@
 <h2 align="left">Trophies</h2>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
 </p>
 
 <h2 align="left">GitHub Activity</h2>
