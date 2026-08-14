@@ -1,120 +1,57 @@
 <!--
-THESIS: A cloud-security profile as a concise, evidence-led operating brief.
-OWN-WORLD: Midnight field diagram; cobalt, teal, and amber mark the Signal → Control → Evidence model.
-STORY: Recruiters quickly understand role fit and impact; collaborators find real projects and a clear way in.
-FIRST VIEWPORT: A safe standalone image is followed by normal Markdown identity, role-fit statement, and a single primary contact action.
-FORM: A linear field brief—model, proof, practice, public builds, then collaboration.
+THESIS: A minimal, SEO-legible profile that reads in one scroll and ranks on the keywords recruiters search.
+FORM: Header → proof line → stack → featured builds → activity → contact. No filler widgets.
 -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/main/assets/signal-control-evidence.svg" alt="Signal, control, evidence: a cloud-security operating model" width="100%" />
-</p>
 
 <h1 align="center">Ahmed Raza Shaikh</h1>
 
-<p align="center"><strong>Cloud Security Engineer · DevSecOps Engineer · SIEM Detection Engineer</strong></p>
-
-<p align="center">I connect AWS and Azure cloud security posture management (CSPM), SIEM detection engineering, secure delivery, and evidence-ready compliance—so teams can find risk, make recurrence harder, and prove the control worked.</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;pause=1100&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=660&amp;lines=Signal+to+control+to+evidence.;Cloud+security+systems+teams+can+run." alt="Signal to control to evidence. Cloud security systems teams can run." />
-</p>
-
-<p align="center"><strong>Best fit:</strong> Cloud Security Engineering, DevSecOps Security, and Security Automation roles.</p>
-
-<p align="center">
-  <a href="mailto:ahmedshaikh0426@gmail.com"><img src="https://img.shields.io/badge/Email_Ahmed-Start_a_conversation-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=60A5FA" alt="Email Ahmed" /></a>
-  &middot; <a href="https://ahmedshaikh.cloud/">Portfolio</a>
-  &middot; <a href="https://www.linkedin.com/in/ahmedrazaashaikh/">LinkedIn</a>
+  Cloud Security Engineer · DevSecOps Engineer · SIEM Detection Engineer
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,docker,kubernetes,githubactions&amp;theme=dark" alt="AWS, Azure, Terraform, Python, Docker, Kubernetes, and GitHub Actions" />
+  I secure AWS and Azure cloud environments, build detection content for Splunk and Microsoft Sentinel, and ship security automation that reduces risk teams can measure — 60% cloud-risk reduction, 65+ SIEM detection rules, 200+ high-severity findings blocked in CI/CD.
 </p>
 
----
+<p align="center">
+  <a href="https://ahmedshaikh.cloud/"><img src="https://img.shields.io/badge/Portfolio-ahmedshaikh.cloud-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio: ahmedshaikh.cloud" /></a>
+  <a href="mailto:ahmedshaikh0426@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedshaikh0426%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email Ahmed Raza Shaikh" /></a>
+  <a href="https://www.linkedin.com/in/ahmedrazaashaikh/"><img src="https://img.shields.io/badge/LinkedIn-ahmedrazaashaikh-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="Ahmed Raza Shaikh on LinkedIn" /></a>
+</p>
 
-## The operating model
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,docker,kubernetes,githubactions&theme=dark" alt="AWS, Azure, Terraform, Python, Docker, Kubernetes, GitHub Actions" />
+</p>
 
-| Stage | What I focus on | What changes |
-| :-- | :-- | :-- |
-| **Signal** | Cloud posture, vulnerability patterns, and actionable telemetry | Teams see the risks that deserve attention. |
-| **Control** | IAM hardening, security guardrails, and pull-request gates | The same classes of risk become harder to reintroduce. |
-| **Evidence** | Detection content, runbooks, and continuous assurance | Security work remains visible, defensible, and usable. |
+<br/>
 
----
+## About
 
-## Selected program outcomes
+- **Cloud security posture management** on AWS and Azure — IAM hardening, network and data controls, CIS Benchmarks, Well-Architected review.
+- **Detection engineering** for Splunk, Microsoft Sentinel, and QRadar, mapped to MITRE ATT&CK with response-ready runbooks.
+- **DevSecOps** — SAST, dependency, container, and IaC scanning wired into GitHub Actions as pull-request gates.
+- **Compliance & assurance** — ISO 27001, NIST CSF, NIST SP 800-53, PCI-DSS, SOX, and OWASP Top 10, backed by VAPT with Burp Suite, Nessus, Qualys, and OWASP ZAP.
+- M.S. Cybersecurity, Stevens Institute of Technology.
 
-| Practice | Verified outcome |
-| :-- | --: |
-| Cloud-risk reduction | **60%** |
-| SIEM detection engineering | **65+ rules** |
-| Secure delivery controls | **200+ high-severity findings blocked** |
-| Vulnerability management | **600+ CVEs managed** |
+## Featured builds
 
----
+**[Auro — Automated Cloud Compliance Engine](https://github.com/ahmed-raza-shaikh/Auro)**
+Serverless AWS compliance engine (Python, Boto3, Lambda) running scheduled CIS checks, generating PDF reports, and alerting Slack on drift.
 
-## What I build
-
-| Practice lane | Engineering focus |
-| :-- | :-- |
-| **Secure cloud foundations** | AWS and Azure CSPM, least-privilege IAM, data and network controls, Terraform security, container security, and Kubernetes guardrails that reduce exposed paths. |
-| **Detection that leads somewhere** | SIEM detection content and threat-informed telemetry for Splunk, Microsoft Sentinel, and QRadar—mapped to MITRE ATT&CK with triage patterns and response-ready runbooks. |
-| **Guardrailed delivery** | Python automation, Terraform, containers, GitHub Actions, and security checks where teams change code. |
-| **Continuous assurance** | VAPT with Burp Suite, Nessus, Qualys, and OWASP ZAP; risk reporting; and evidence-ready controls mapped to ISO 27001, NIST CSF, NIST SP 800-53, PCI-DSS, SOX, OWASP Top 10, MITRE ATT&CK, and STRIDE. |
-
----
-
-## Public builds
-
-### [Auro — Automated Cloud Compliance Engine](https://github.com/ahmed-raza-shaikh/Auro)
-
-A serverless AWS compliance engine that runs scheduled CIS checks, generates PDF reports, and sends Slack alerts—built around read-only Boto3 audits and repeatable evidence.
-
-### [DevSecOps CI/CD Security Pipeline](https://github.com/ahmed-raza-shaikh/DevSecOps-CI-CD-Security-Pipeline)
-
-A GitHub Actions pipeline that turns container, IaC, dependency, and runtime findings into pull-request security gates with auditable outputs.
-
----
-
-## Ask me about
-
-Cloud posture management, detection engineering, PR security gates, compliance automation, and translating security requirements into engineering controls.
-
----
+**[DevSecOps CI/CD Security Pipeline](https://github.com/ahmed-raza-shaikh/DevSecOps-CI-CD-Security-Pipeline)**
+GitHub Actions pipeline turning container, IaC, dependency, and runtime scan findings into pull-request security gates.
 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-raza-shaikh&amp;theme=github_dark" alt="Ahmed's GitHub profile summary" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="Ahmed Raza Shaikh's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ahmed-raza-shaikh&theme=dark&hide_border=true&background=0D1117&stroke=60A5FA&ring=2DD4BF&fire=FBBF24" alt="Ahmed Raza Shaikh's GitHub contribution streak" height="165" />
 </p>
+
+## Let's talk
+
+Open to Cloud Security Engineering, DevSecOps, and Security Automation roles. The fastest way in is [email](mailto:ahmedshaikh0426@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ahmedrazaashaikh/).
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-raza-shaikh&amp;theme=github_dark" alt="Ahmed's repositories by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-raza-shaikh&amp;theme=github_dark" alt="Ahmed's most-committed languages" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed-raza-shaikh&style=flat-square&color=60A5FA&label=Profile+views" alt="Profile views" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-raza-shaikh&amp;theme=transparent&amp;hide_border=true&amp;background=0D1117&amp;stroke=60A5FA&amp;ring=2DD4BF&amp;fire=FBBF24&amp;currStreakNum=E5E7EB&amp;sideNums=E5E7EB&amp;currStreakLabel=60A5FA&amp;sideLabels=94A3B8&amp;dates=94A3B8" alt="Ahmed's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza-shaikh&amp;bg_color=0D1117&amp;color=E5E7EB&amp;line=60A5FA&amp;point=2DD4BF&amp;area=true&amp;area_color=1E293B&amp;hide_border=true&amp;custom_title=Contribution%20Signal" alt="Ahmed's GitHub contribution activity graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-raza-shaikh&amp;style=for-the-badge&amp;color=60A5FA&amp;label=Profile+views" alt="Profile views" />
-</p>
-
-> Live cards are powered by public GitHub-profile services and reflect visible GitHub activity.
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="A rotating developer quote" />
-</p>
-
----
-
-## Open to building
-
-I’m especially interested in security automation, cloud-compliance tooling, developer-first guardrails, and detection content that teams can run. If you are hiring for that work, start with an [email](mailto:ahmedshaikh0426@gmail.com). If you want to collaborate, explore a public build above and reach out with the problem you want to solve.
