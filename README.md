@@ -14,7 +14,11 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
 
-<a href="#top"><img src="https://github-readme-stats-two-nu.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" align="right" width="380" /></a>
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" width="380" />
+</p>
+
+<div align="center">
 
 - :office: &nbsp;I'm currently working as a **[Security & Cloud Consultant]** at **Neon IT Systems**
 - :shield: &nbsp;I'm currently building **[Auro]**, an automated AWS compliance engine
@@ -23,13 +27,13 @@
 - :mailbox: &nbsp;Ask me anything by **[email]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br clear="right">
+</div>
 
-<h2 align="left" id="ahmedrazashaikh-tech">Favorite Tech</h2>
+<h2 align="center" id="ahmedrazashaikh-tech">Favorite Tech</h2>
 
-> Tools, platforms, and standards I like to work with.
+<p align="center">Tools, platforms, and standards I like to work with.</p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#ahmedrazashaikh-tech"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
@@ -66,29 +70,31 @@
   </tr>
 </table>
 
-<h2 align="left">Trophies</h2>
+<h2 align="center">Trophies</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://github-trophies.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
 </p>
 
-<h2 align="left">GitHub Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 
-> Contribution streak and activity, tracked live.
+<p align="center">Contribution streak and activity, tracked live.</p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmed-raza-shaikh&theme=dark&hide_border=true&background=0D1117&stroke=60A5FA&ring=2DD4BF&fire=FBBF24" alt="Ahmed Raza Shaikh's GitHub contribution streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza-shaikh&bg_color=0D1117&color=E5E7EB&line=60A5FA&point=2DD4BF&area=true&area_color=1E293B&hide_border=true&custom_title=Contribution%20Activity" alt="Ahmed Raza Shaikh's GitHub contribution activity graph" width="100%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 <!-- links -->
 
