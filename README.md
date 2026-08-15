@@ -70,6 +70,14 @@
   </tr>
 </table>
 
+<h2 align="center">Animated Projects</h2>
+
+<p align="center">Selected work and repositories, presented with live motion.</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=ahmed-raza-shaikh&amp;theme=github-dark&amp;style=aura" alt="Ahmed Raza Shaikh's animated GitHub projects" width="860" />
+</p>
+
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">Contribution streak and activity, tracked live.</p>
