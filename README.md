@@ -89,12 +89,6 @@
 
 
 
-<h2 align="center">Trophies</h2>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
-</p>
-
 <!-- links -->
 
 [Security & Cloud Consultant]: https://ahmedshaikh.cloud/#experience "Ahmed's experience"
