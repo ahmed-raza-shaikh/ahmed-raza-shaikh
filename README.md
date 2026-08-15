@@ -81,6 +81,11 @@
 <p align="center">Contribution streak and activity, tracked live.</p>
 
 <p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ahmed-raza-shaikh&amp;theme=github-dark&amp;style=aura" alt="Ahmed Raza Shaikh's animated GitHub contribution heatmap" width="860" />
+</p>
+
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmed-raza-shaikh&theme=dark&hide_border=true&background=0D1117&stroke=60A5FA&ring=2DD4BF&fire=FBBF24" alt="Ahmed Raza Shaikh's GitHub contribution streak" />
 </p>
 
