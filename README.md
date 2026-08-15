@@ -16,12 +16,12 @@
 
 <div align="center">
 
-- :office: &nbsp;I'm currently working as a **[Security & Cloud Consultant]** at **Neon IT Systems**
-- :shield: &nbsp;I'm currently building **[Auro]**, an automated AWS compliance engine
-- :speech_balloon: &nbsp;I like to talk about **cloud security**, **SIEM detection engineering**, and **DevSecOps**
-- :book: &nbsp;See my full experience and projects on my **[portfolio]**
-- :mailbox: &nbsp;Ask me anything by **[email]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+:office: &nbsp;I'm currently working as a **[Security & Cloud Consultant]** at **Neon IT Systems**<br />
+:shield: &nbsp;I'm currently building **[Auro]**, an automated AWS compliance engine<br />
+:speech_balloon: &nbsp;I like to talk about **cloud security**, **SIEM detection engineering**, and **DevSecOps**<br />
+:book: &nbsp;See my full experience and projects on my **[portfolio]**<br />
+:mailbox: &nbsp;Ask me anything by **[email]**<br />
+:computer: &nbsp;Connect with me on **[LinkedIn]**
 
 </div>
 
