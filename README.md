@@ -71,7 +71,7 @@
 <p align="center">Selected work and repositories, presented with live motion.</p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ahmed-raza-shaikh&amp;theme=github-dark&amp;style=aura" alt="Ahmed Raza Shaikh's animated GitHub projects" width="860" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ahmed-raza-shaikh&amp;theme=github-dark&amp;style=aura&amp;limit=6" alt="Ahmed Raza Shaikh's animated GitHub projects" width="860" />
 </p>
 
 <h2 align="center">GitHub Activity</h2>
