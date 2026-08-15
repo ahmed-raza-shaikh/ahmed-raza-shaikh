@@ -70,12 +70,6 @@
   </tr>
 </table>
 
-<h2 align="center">Trophies</h2>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
-</p>
-
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">Contribution streak and activity, tracked live.</p>
@@ -93,12 +87,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza-shaikh&bg_color=0D1117&color=E5E7EB&line=60A5FA&point=2DD4BF&area=true&area_color=1E293B&hide_border=true&custom_title=Contribution%20Activity" alt="Ahmed Raza Shaikh's GitHub contribution activity graph" width="100%" />
 </p>
 
+
+
+<h2 align="center">Trophies</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" />
-    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ahmed-raza-shaikh/ahmed-raza-shaikh/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://github-trophies.vercel.app/?username=ahmed-raza-shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ahmed Raza Shaikh's GitHub trophies" />
 </p>
 
 <!-- links -->
