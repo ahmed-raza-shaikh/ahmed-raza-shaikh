@@ -14,10 +14,6 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=ahmed-raza-shaikh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=E5E7EB" alt="ahmed-raza-shaikh" width="380" />
-</p>
-
 <div align="center">
 
 - :office: &nbsp;I'm currently working as a **[Security & Cloud Consultant]** at **Neon IT Systems**
