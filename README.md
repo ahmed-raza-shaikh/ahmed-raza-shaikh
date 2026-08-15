@@ -70,7 +70,7 @@
   </tr>
 </table>
 
-<h2 align="center">Animated Projects</h2>
+<h2 align="center">Projects</h2>
 
 <p align="center">Selected work and repositories, presented with live motion.</p>
 
